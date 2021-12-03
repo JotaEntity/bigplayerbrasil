@@ -1,0 +1,23 @@
+.change {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+.change:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+}
+.nohover {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.text {
+  color: #fff;
+  margin-top: 250px;
+}
+.text:hover {
+  color: #000;
+}
