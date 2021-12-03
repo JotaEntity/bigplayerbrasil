@@ -33,6 +33,7 @@ DICA: execute o `server` primeiramente
 
 - Backend modelado com Node.js:
   - `Express` — Método para gerir o backend com autenticação, CRUD.
+  - A Porta é 3333
 
 ### Frontend
 
